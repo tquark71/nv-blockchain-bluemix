@@ -203,9 +203,9 @@ var options = 	{
 								}						
 					},
 					chaincode:{
-						zip_url: 'https://github.com/cherky75/nv-chaincode-local/archive/master.zip',
+						zip_url: 'https://github.com/tquark71/nv-chaincode-local/archive/master.zip',
 						unzip_dir: 'nv-chaincode-local-master',									//subdirectroy name of chaincode after unzipped
-						git_url: 'https://github.com/cherky75/nv-chaincode-local',			//GO git http url
+						git_url: 'https://github.com/tquark71/nv-chaincode-local',			//GO git http url
 					
 						//hashed cc name from prev deployment
 						//deployed_name: 'mycc'
